@@ -1,0 +1,88 @@
+{
+    "example": [
+        {
+            "url": "https://www.jbhifi.com.au/products/garmin-epix-gen-2-sports-watch-sapphire-black-titanium?view=pdp",
+            "web page": "www.jbhifi.com.au",
+            "product name": "Garmin EPIX Gen 2 Sports Watch (Sapphire - Black Titanium) | JB Hi-Fi",
+            "price": 1499.0
+        },
+        {
+            "url": "https://www.jbhifi.com.au/products/lg-gs-vb655pl-655l-side-by-side-fridge-with-instaview-stainless?view=pdp",
+            "web page": "www.jbhifi.com.au",
+            "product name": "LG GS-VB655PL 655L Side by Side Fridge with InstaView (Stainless) | JB Hi-Fi",
+            "price": 2147.0
+        },
+        {
+            "url": "https://www.jbhifi.com.au/products/segway-ninebot-kickscooter-f30?view=pdp",
+            "web page": "www.jbhifi.com.au",
+            "product name": "Segway Ninebot KickScooter F30 | JB Hi-Fi",
+            "price": 999.0
+        },
+        {
+            "url": "https://www.digidirect.com.au/canon-rf-70-200mm-f-2-8l-is-usm-lens",
+            "web page": "www.digidirect.com.au",
+            "product name": "Canon RF 70-200mm f/2.8L IS USM Lens | Buy at digiDirect | digiDirect",
+            "price": 4599.0
+        },
+        {
+            "url": "https://www.digidirect.com.au/lastolite-kit-bg-support-h-duty-supports-heavier-vinyl-paper",
+            "web page": "www.digidirect.com.au",
+            "product name": "Lastolite Kit BG Support H Duty supports heavier vinyl & paper | Buy at digiDirect | digiDirect",
+            "price": 559.0
+        },
+        {
+            "url": "https://www.ikea.com/au/en/p/vimle-3-seat-sofa-bed-with-chaise-longue-saxemara-black-blue-s09419258/",
+            "web page": "www.ikea.com",
+            "product name": "VIMLE 3-seat sofa-bed with chaise longue, Saxemara black-blue - IKEA",
+            "price": 1899.0
+        },
+        {
+            "url": "https://www.ikea.com/au/en/p/kallax-shelving-unit-with-4-inserts-white-s19197431/",
+            "web page": "www.ikea.com",
+            "product name": "KALLAX Shelving unit with 4 inserts, white, 147x147 cm - Find it here - IKEA",
+            "price": 239.0
+        },
+        {
+            "url": "https://www.chemistwarehouse.com.au/buy/75684/rimmel-60-seconds-nail-polish-caramel-cupcake",
+            "web page": "www.chemistwarehouse.com.au",
+            "product name": "\n\n\tBuy Rimmel 60 Seconds Nail Polish Caramel Cupcake Online at Chemist Warehouse\u00ae  \n\n",
+            "price": 3.99
+        },
+        {
+            "url": "https://www.chemistwarehouse.com.au/buy/109982/rimmel-wonder-extension-mascara-002-brown",
+            "web page": "www.chemistwarehouse.com.au",
+            "product name": "\n\n\tBuy Rimmel Wonder Extension Mascara 002 Brown Online at Chemist Warehouse\u00ae  \n\n",
+            "price": 12.99
+        },
+        {
+            "url": "https://www.thegoodguys.com.au/hisense-55-inches-a7g-4k-uhd-smart-tv--55a7g",
+            "web page": "www.thegoodguys.com.au",
+            "product name": "Hisense 55A7G 55\" A7G 4K UHD Smart TV  at The Good Guys",
+            "price": 795.0
+        },
+        {
+            "url": "https://www.digidirect.com.au/panasonic-street-wireless-headphones-white",
+            "web page": "www.digidirect.com.au",
+            "product name": "Panasonic Street Wireless Headphones - White | Buy at digiDirect | digiDirect",
+            "price": 139.95
+        },
+        {
+            "url": "https://www.umart.com.au/product/asus-geforce-gt730-gddr5-2g-low-profile-graphics-card-60644",
+            "web page": "www.umart.com.au",
+            "product name": "Asus GeForce GT730 GDDR5 2G Low Profile Graphics Card - Umart.com.au",
+            "price": 85.0
+        },
+        {
+            "url": "https://www.thegoodguys.com.au/hisense-55-inches-a7g-4k-uhd-smart-tv--55a7g",
+            "web page": "www.thegoodguys.com.au",
+            "product name": "Hisense 55A7G 55\" A7G 4K UHD Smart TV  at The Good Guys",
+            "price": 795.0
+        },
+        {
+            "url": "https://www.teds.com.au/canon-eos-r5-c-body",
+            "web page": "www.teds.com.au",
+            "product name": "Canon EOS R5 C Body  | Ted's Cameras",
+            "price": 7299.95
+        }
+    ]
+}

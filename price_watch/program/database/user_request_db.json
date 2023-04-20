@@ -1,0 +1,53 @@
+{
+    "user_transtactions": {
+        "uuid": {
+            "notification method": "discord",
+            "url_list": [
+                "url1",
+                "url2"
+            ]
+        },
+        "683454704176594987": {
+            "notification method": "discord",
+            "url_list": [
+                "https://www.jbhifi.com.au/products/breville-the-barista-express-manual-coffee-machine-liquorice?view=tabs",
+                "https://www.thegoodguys.com.au/linsar-70-inches-4k-uhd-smart-webos-tv-ls70uhdnf",
+                "https://www.teds.com.au/canon-eos-r5-c-body",
+                "https://www.ikea.com/au/en/p/kallax-shelving-unit-with-4-inserts-white-s19197431/"
+            ]
+        }
+    },
+    "url_on_watch": {
+        "url": {
+            "price": 0,
+            "user on watch": [
+                "uuid1",
+                "uuid2"
+            ]
+        },
+        "https://www.jbhifi.com.au/products/breville-the-barista-express-manual-coffee-machine-liquorice?view=tabs": {
+            "price": 599.0,
+            "user on watch": [
+                683454704176594987
+            ]
+        },
+        "https://www.thegoodguys.com.au/linsar-70-inches-4k-uhd-smart-webos-tv-ls70uhdnf": {
+            "price": 1099.0,
+            "user on watch": [
+                683454704176594987
+            ]
+        },
+        "https://www.teds.com.au/canon-eos-r5-c-body": {
+            "price": 7299.95,
+            "user on watch": [
+                683454704176594987
+            ]
+        },
+        "https://www.ikea.com/au/en/p/kallax-shelving-unit-with-4-inserts-white-s19197431/": {
+            "price": 239.0,
+            "user on watch": [
+                683454704176594987
+            ]
+        }
+    }
+}

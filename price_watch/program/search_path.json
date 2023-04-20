@@ -1,0 +1,116 @@
+{
+    "_comment_1": "search method 0 : soup.find(id=search_sting) ; 1:soup.find(class_=search_sting)",
+    "_comment_2": "2:soup.find(type=search_sting); 3:soup.find(class_=search_sting) with condition  4:soup.find(meta,attrs = {attrs})",
+    "www.jbhifi.com.au": {
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "facebook-product-data",
+        "search method": 0,
+        "search location": 0
+    },
+    "www.chemistwarehouse.com.au": {
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "Price",
+        "search method": 1,
+        "search location": 0
+    },
+    "www.digidirect.com.au": {
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "price",
+        "search method": 1,
+        "search location": 0
+    },
+    "www.ikea.com": {
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "pip-temp-price__integer",
+        "search method": 1,
+        "search location": -1
+    },
+    "www.thegoodguys.com.au": {
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "pricepoint-price",
+        "search method": 1,
+        "search location": 0
+    },
+    "www.redbubble.com": {
+        "algorithm": "ScrapingAntClient",
+        "version": 1,
+        "search string": "application/ld+json",
+        "search method": 2,
+        "search location": 0
+    },
+    "www.umart.com.au": {
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "shop_price",
+        "search method": 0,
+        "search location": 0
+    },
+    "www.woolworths.com.au": {
+        "algorithm": "ScrapingAntClient",
+        "version": 1,
+        "search string": "price_dollar",
+        "search method": 1,
+        "search location": 0
+    },
+    "www.bunnings.com.au": {
+        "algorithm": "ScrapingAntClient",
+        "version": 1,
+        "search string": "MuiGrid-root MuiGrid-container",
+        "search method": 1,
+        "search location": 0
+    },
+    "www.teds.com.au": {
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "price-container price-final_price tax weee",
+        "search method": 3,
+        "search location": 0
+    },
+    "hypoxlab.com": {
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "ProductPrice",
+        "search method": 0,
+        "search location": 0
+    },
+    "www2.hm.com":{
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "price-value",
+        "search method": 1,
+        "search location": 0
+    },
+    "raywhite.com":{
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "price",
+        "search method": 1,
+        "search location": 0
+    },
+    "mydaiso.com.au":{
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "price",
+        "search method": 1,
+        "search location": 0
+    },
+    "smiggle.com.au":{
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": {"name":"description"},
+        "search method": 4,
+        "search location": 0
+    },
+    "www.panasonic.com":{
+        "algorithm": "urlopen",
+        "version": 1,
+        "search string": "price",
+        "search method": 1,
+        "search location": 0
+    }
+}
